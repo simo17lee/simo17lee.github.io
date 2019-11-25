@@ -1,25 +1,20 @@
 ---
 layout: post
-title:  "Hello, World!"
+title:  "About me ..."
 date:   2019-11-25 02:14:15 +0900
-categories: jekyll update
+categories: OPIC
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Hello I am Simon,
+I don’t really know what to tell you about myself but
+uh, these days  I really lovee playing dart.
+when I play darts, I can concentrate in a short time,
+and I can feel pleasure when I hit the target.
+That's why I often play darts.
+when I'm relaxing while working I enjoy playing dart with my colleagues.
+Even if I don’t have someone to play with, I practice alone to improve my darts throwing.
+Actually, you know what?
+I've been throwing darts almost every day since I started darts.
+So these days I hear that I'm pretty good at darts, and when I play with someone I almost win.
+I think I will continue to play darts in the future, and someday I want to participate in big dart matches later.
+And that’s pretty much all I have to say about myself. 
